@@ -10,8 +10,8 @@ from langchain.chains.question_answering import load_qa_chain
 
 # --- 1. Configuration ---
 # IMPORTANT: Replace these placeholders with your actual information
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAxNFgk2kmVcXnI5iYPhEQ_4L1uiVvZjdw"
-FOLDER_ID = "1r_AJ8vVsvSpqes8uFzPnMGggabP60daY"
+os.environ["GOOGLE_API_KEY"] = "YOUR_GOOGLE_API_KEY"
+FOLDER_ID = "YOUR_DRIVE_FOLDER_ID"
 
 # Configure the Gemini client
 try:
