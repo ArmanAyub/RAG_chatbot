@@ -2,7 +2,7 @@
 
 
 
-This project is a versatile Retrieval-Augmented Generation (RAG) application that allows users to have a conversation with custom knowledge bases. It can ingest data from multiple sources, including public websites, uploaded PDF documents, and entire Google Drive folders.
+This project is a genAI based versatile Retrieval-Augmented Generation (RAG) application that allows users to have a conversation with custom knowledge bases. It can ingest data from multiple sources, including public websites, uploaded PDF documents, and entire Google Drive folders.
 
 The entire application is wrapped in a user-friendly web interface built with Streamlit, allowing users to select their data source and get answers in real-time.
 
