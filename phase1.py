@@ -10,7 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 
 # --- 1. Configuration ---
 # Set your Google API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAxNFgk2kmVcXnI5iYPhEQ_4L1uiVvZjdw"
+os.environ["GOOGLE_API_KEY"] = "YOUR_GOOGLE_API_KEY" #Paste your google API key inside "YOUR_GOOGLE_API_KEY"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 
