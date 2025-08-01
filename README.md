@@ -45,7 +45,7 @@ Installation Guide
 Clone the Repository:
 
 ""
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ArmanAyub/RAG_chatbot.git
 cd your-repo-name
 ""
 
